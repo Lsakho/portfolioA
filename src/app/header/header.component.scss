@@ -1,0 +1,17 @@
+/* Avec Tailwind CSS, tu peux ajouter un style personnalisé */
+.navbar {
+    background-color: #f8f9fa;
+  }
+  
+  .navbar-nav .nav-link {
+    font-weight: 500;
+  }
+  
+  .navbar-toggler {
+    border-color: transparent;
+  }
+  .nav-link:hover {
+    color: #007bff;
+    transition: color 0.3s ease-in-out;
+  }
+    
